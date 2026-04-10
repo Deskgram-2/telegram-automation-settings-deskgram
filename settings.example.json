@@ -1,0 +1,15 @@
+{
+  "system": {
+    "ui_zoom": 100,
+    "notifications_enabled": true
+  },
+  "api": {
+    "openai_api": "",
+    "mistral_api": "",
+    "other_provider_api": ""
+  },
+  "workflow": {
+    "save_before_run": true,
+    "review_notifications": true
+  }
+}
