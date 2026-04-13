@@ -33,6 +33,14 @@
 4. Включите уведомления под ваш рабочий процесс.
 5. Сохраните изменения перед запуском модулей.
 
+## Какие модули чаще всего зависят от этих настроек
+
+- [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram), если используются AI-провайдеры и общие системные параметры;
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram), когда важны стабильные общие настройки и уведомления;
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram), если вы сначала собираете инфраструктурную базу;
+- [Управление прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram), если сетка аккаунтов требует корректной инфраструктуры;
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram), если хотите контролировать рабочие процессы уже после запуска.
+
 ## Интерфейс раздела
 
 ### Главный экран
@@ -75,6 +83,9 @@
 - [Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation)
 - [Управление прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram)
 - [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram)
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
 
 ## FAQ
 
